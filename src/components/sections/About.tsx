@@ -69,7 +69,9 @@ const About = () => {
                 <Server className="w-6 h-6 text-primary" />
               </div>
               <h4 className="font-semibold mb-1">DevOps</h4>
-              <p className="text-sm text-muted-foreground">CI/CD & Automation</p>
+              <p className="text-sm text-muted-foreground">
+                CI/CD & Automation
+              </p>
             </motion.div>
 
             <motion.div
@@ -80,7 +82,9 @@ const About = () => {
                 <Cloud className="w-6 h-6 text-primary" />
               </div>
               <h4 className="font-semibold mb-1">Cloud</h4>
-              <p className="text-sm text-muted-foreground">AWS & Infrastructure</p>
+              <p className="text-sm text-muted-foreground">
+                AWS & Infrastructure
+              </p>
             </motion.div>
 
             <motion.div
@@ -107,3 +111,5 @@ const About = () => {
 };
 
 export default About;
+
+//
